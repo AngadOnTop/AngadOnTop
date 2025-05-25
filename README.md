@@ -1,4 +1,4 @@
-##Yo, im Angad
+## Yo, im Angad
 
 🧠 Student at BBHS<br/>
 👨🏼‍💻 Specialise in frontend<br/>
