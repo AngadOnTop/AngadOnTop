@@ -1,16 +1,22 @@
-Hi, I'm Angad. I build software and train ML models.
-Year 11 · Sydney
+## Hi, I'm Angad. I build software and train ML models.  
+### Year 11 · Sydney
 
-**Currently working on**
-- Real-time hand detection with YOLO11 + ONNX Runtime in C++
-- FTC robot autonomy code in Java with RoadRunner
+---
 
 **Recent projects**
-- [ai_webcam](https://github.com/angaddhaliwal/ai_webcam) (C++ · ONNX)  
-  Real-time hand detection using a custom-trained YOLO11 model and ONNX Runtime, running on webcam feed.
+- [ai_webcam](https://github.com/angadontop/ai_webcam) (C++ · ONNX)  
+  Real-time hand detection using a custom-trained YOLO11 model and ONNX Runtime.
 
-- [FlashLearn](https://github.com/angaddhaliwal/flashlearn) (React · Flask · Claude)  
-  AI-powered flashcard and quiz app. Built with Vite, Flask backend, and Claude as the AI layer.
+- [FlashLearn](https://github.com/angadontop/flashlearn) (React · Flask · Claude)  
+  AI-powered flashcard and quiz app with a Claude backend.
 
-**Things I use**
+---
+
+**Things I use**  
 C++ · Python · React · Java · Firebase · Linux
+
+---
+
+<p align="center">
+  <img src="https://profile-summary-for-github.com/api/img/angadontop/summary" />
+</p>
