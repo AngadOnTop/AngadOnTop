@@ -1,9 +1,11 @@
-## Hi, I'm Angad. I build software and train ML models.  
-### Year 11 · Sydney
+# Angad Dhaliwal
+
+Hi, I'm Angad. I build software and train ML models.  
+Year 11 · Sydney
 
 ---
 
-**Recent projects**
+## Recent projects
 - [ai_webcam](https://github.com/angadontop/ai_webcam) (C++ · ONNX)  
   Real-time hand detection using a custom-trained YOLO11 model and ONNX Runtime.
 
@@ -12,11 +14,9 @@
 
 ---
 
-**Things I use**  
+## Things I use
 C++ · Python · React · Java · Firebase · Linux
 
 ---
 
-<p align="center">
-  <img src="https://profile-summary-for-github.com/api/img/angadontop/summary" />
-</p>
+[![Angad's GitHub stats](https://github-readme-stats.vercel.app/api?username=angadontop)](https://github.com/angadontop)
