@@ -17,6 +17,4 @@ Year 11 · Sydney
 ## Things I use
 C++ · Python · React · Java · Firebase · Linux
 
----
 
-[![Angad's GitHub stats](https://github-readme-stats.vercel.app/api?username=angadontop)](https://github.com/angadontop)
